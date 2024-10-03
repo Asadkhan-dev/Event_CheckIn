@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503173725067",
+    "project_id": "eventcheckin-f98e7",
+    "storage_bucket": "eventcheckin-f98e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503173725067:android:8641726cae20ae8131cd8e",
+        "android_client_info": {
+          "package_name": "com.example.event_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Ar_TuRUKy11ISCstXrZ3mBgC29Roh8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
